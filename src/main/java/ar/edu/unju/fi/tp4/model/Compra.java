@@ -15,13 +15,11 @@ public class Compra {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-
 	
 	public Compra( Producto producto) {
 		super();
 		
-		this.producto = producto;
-		
+		this.producto = producto;		
 	}
 	/**
 	 * @param id
